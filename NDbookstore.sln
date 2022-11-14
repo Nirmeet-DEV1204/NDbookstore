@@ -5,11 +5,11 @@ VisualStudioVersion = 16.0.32901.82
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NDbookstore", "NDbookstore.csproj", "{132FA337-0718-45FE-8162-E67B7C7522AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NDBooks.DataAccess", "..\NDBooks.DataAccess\NDBooks.DataAccess.csproj", "{1A82F263-C2ED-4C24-885F-A68181B97FCE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NDBooks.DataAccess", "..\NDBooks.DataAccess\NDBooks.DataAccess.csproj", "{1A82F263-C2ED-4C24-885F-A68181B97FCE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NDBooks.Models", "..\NDBooks.Models\NDBooks.Models.csproj", "{5F8F11E6-8938-46F3-B2AA-9D15BBC65B80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NDBooks.Models", "..\NDBooks.Models\NDBooks.Models.csproj", "{5F8F11E6-8938-46F3-B2AA-9D15BBC65B80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NDBooks.Utility", "..\NDBooks.Utility\NDBooks.Utility.csproj", "{3643F50F-FA71-4FA9-9C83-BD573DB73CE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NDBooks.Utility", "..\NDBooks.Utility\NDBooks.Utility.csproj", "{3643F50F-FA71-4FA9-9C83-BD573DB73CE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
