@@ -34,8 +34,7 @@ namespace NDbookstore
                     Configuration.GetConnectionString("DefaultConnection")));
             services.AddDefaultIdentity<IdentityUser>()
                 .AddEntityFrameworkStores<ApplicationDbContext>();
-            services.AddScoped<IUnitOfWork>();
-            services.AddScoped<UnitOfWork>();
+            services.AddScoped<IUnitOfWork,UnitOfWork>();
             services.AddControllersWithViews();
             services.AddRazorPages();
         }
