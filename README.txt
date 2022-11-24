@@ -87,3 +87,43 @@ Edited viewstart.cshtml file as per given code
 Run the application and everything good ..got output properly without any errors 
 Committed everything to git hub 
 Completed with the part one of the assignment 2
+
+11/11/2022. 1300 
+Part 2 of assignment 2 has begun. 
+According to the slides, migrations with the given command were added. 
+I found the error mentioned in the slide. 
+The default project has been changed to NDbookstore.dataaccess. 
+When you run the command, the migration is complete. 
+NDbooksdataaccess created a migration file 
+I updated the database, and everything worked perfectly. 
+There have been no errors or warnings since the application was cleaned and rebuilt. 
+Got the desired result 
+Readme has been updated. 
+Uploaded to github 
+
+
+12/11/2022. 1300 
+Part 2.2 of Assignment 2 
+In the models folder, a new file called Category.cs has been added. 
+I updated the file in the slides with the given code. 
+Migration was added in accordance with the slides... Migration went off without a hitch. 
+
+
+13/11/2022. 1800 
+Repository is a new folder in the dataaccess project. 
+Another IRepository folder has been added to the repository folder. 
+IRepository.cs has been added to the irepository folder.
+
+Irepository file was updated with the given code.
+Repository.cs class was added to the repository folder. 
+The file has been updated with the provided code. 
+ICategory.cs has been added to the Irepository folder. 
+ICategory.cs file was updated with the given code. 
+Another class file, Category.cs, has been added to the Repository folder. 
+I updated the file with the code from the slide. 
+ISP Call.cs has been added to the IRepository folder. 
+I updated the file with the slide's code. 
+Added a new class file to the repository folder, SP Call.cs, and updated it with the code from the slides.
+
+14/11/2022.  100
+Try to pull my repo but there was error and was not able to push so I deleted my repo and created new while there was too many errors in part 2.2 however just push the repo.
