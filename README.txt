@@ -127,3 +127,16 @@ Added a new class file to the repository folder, SP Call.cs, and updated it with
 
 14/11/2022.  100
 Try to pull my repo but there was error and was not able to push so I deleted my repo and created new while there was too many errors in part 2.2 however just push the repo.
+
+23/11/2022 0828
+added coverType .cs file to the model folder 
+added id and name field to covertype.cs file
+found and error added using NDbook.Model to the file to resolve that
+
+24/11/2022 2000
+added CoverTypeRepository to repoaitory folder 
+added ICoverTypeRepositroy to Irepository folder
+
+suddenly found an error in ICategoryRepository dont know the reason yet
+
+
